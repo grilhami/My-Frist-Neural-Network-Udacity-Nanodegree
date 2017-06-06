@@ -1,4 +1,4 @@
-# My-Frist-Neural-Network-Udacity-Nanodegree
+# My-First-Neural-Network-Udacity-Nanodegree
 
 The first project of the Udacity Nanodegree is to build my own first Neural Network. Here I was able to build and train my own Neural 
 Network from scratch to predict the number of bikeshare users on a given day.
